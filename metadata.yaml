@@ -1,16 +1,22 @@
 _repo: Dionysius-of-Halicarnassus-On-Literary-Composition-Being-the-Greek-Text-of-the-De-Composition__50212
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Roberts, William Rhys
       gutenberg_agent_id: '45754'
       url: http://www.gutenberg.org/2009/agents/45754
+covers:
+- cover_type: archival
+  image_path: 50212-h/images/cover.jpg
 creator:
   author:
     agent_name: Halicarnassus, Dionysius of
     gutenberg_agent_id: '45753'
     url: http://www.gutenberg.org/2009/agents/45753
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50212#Dionysius-of-Halicarnassus-On-Literary-Composition-Being-the-Greek-Text-of-the-De-Composition_
 gutenberg_issued: '2015-10-14'
 gutenberg_type: Text
 identifiers:
