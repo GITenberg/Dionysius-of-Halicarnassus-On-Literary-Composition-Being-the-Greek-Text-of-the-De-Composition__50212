@@ -25,6 +25,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Dionysius of Halicarnassus On Literary Composition
 
   Being the Greek Text of the De Compositione Verborum'
